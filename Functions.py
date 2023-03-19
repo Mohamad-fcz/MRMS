@@ -107,7 +107,3 @@ def gui_widgets():
     items = [start, end, method,duration, button]
     tab_nest = widgets.GridBox(items, layout=widgets.Layout(grid_template_columns="repeat(2, 400px)"))
     return display(tab_nest, output)
-
-
-gui_widgets()
-
