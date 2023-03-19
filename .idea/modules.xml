@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/MRMS/.idea/MRMS.iml" filepath="$USER_HOME$/DataspellProjects/MRMS/.idea/MRMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MRMS Data collecting.iml" filepath="$PROJECT_DIR$/.idea/MRMS Data collecting.iml" />
     </modules>
   </component>
