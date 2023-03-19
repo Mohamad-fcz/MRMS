@@ -13,7 +13,6 @@
 # MRMS rainfall data collector using Selenium 
 
 This Python package is designed to help automate the download process of MRMS rainfall data using the Selenium package. With this package, you can easily download all the MRMS rainfall data at once, making it much easier to work with.
-This application makes use of the most well-known web scraping tools, such as Selenium and chrome web driver, in order to capture full-size screenshots of web pages for the purpose of tracking and analyzing changes. One of the many applications that can be linked to deep learning and used to fit a model with the help of a sequence of screen shots includes, for instance, the movement of hurricanes and the results of sensor readings.
 
 
 <p align="center"><img alt="Storm heat" src="https://user-images.githubusercontent.com/99288525/226160500-ecd42430-d9f8-477e-b964-4d63ca05730b.gif">
