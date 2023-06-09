@@ -12,7 +12,7 @@
 
 # MRMS rainfall data collector using Selenium 
 
-This Python package is designed to help automate the download process of MRMS rainfall data using the Selenium package. With this package, you can easily download all the MRMS rainfall data at once, making it much easier to work with.
+This Python Jupyter Notebook is designed to help automate the download process of MRMS rainfall data using the Selenium package. With this package, you can easily download all the MRMS rainfall data at once, making it much easier to work with.
 
 
 <p align="center"><img alt="Storm heat" src="https://user-images.githubusercontent.com/99288525/226160500-ecd42430-d9f8-477e-b964-4d63ca05730b.gif">
