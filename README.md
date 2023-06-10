@@ -9,7 +9,7 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mohamad-fcz/MRMS?color=orange&logo=jupyter&logoColor=orange">
 
 
-# MRMS rainfall data collector using Selenium 
+# [MRMS rainfall data collector using Selenium](https://github.com/Mohamad-fcz/MRMS)
 
 This Python Jupyter Notebook is designed to help automate the download process of MRMS rainfall data using the Selenium package. With this package, you can easily download all the MRMS rainfall data at once, making it much easier to work with.
 
@@ -35,7 +35,7 @@ This project makes use of Jupyter Notebooks for increased convenience. In order 
 2. Installing Jupyter Lab or installing the Jupyter meta(both are the same) package through conda is the more convenient alternative for achieving this objective. Both of these options make it simple for you to access everything in an effective Jupyter environment that you might require for this project or other projects.
 
 Check that you have the most recent version of Anaconda downloaded and installed on your system.
-
+(https://github.com/Mohamad-fcz/MRMS)
 - [Downdload Anaconda](https://www.anaconda.com/products/distribution)
 Using Anaconda Prompt:
 - installing the most recent version of Jpyter along with all of its dependencies.
